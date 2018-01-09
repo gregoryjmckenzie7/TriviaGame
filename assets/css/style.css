@@ -1,0 +1,50 @@
+h1,
+.button,
+* {
+  text-align: center;
+}
+
+h1 {
+color: blue;
+padding: 10px;
+outline-color: white;
+outline-style: solid;
+background-color: black;
+}
+
+body {
+  background-image: url("../images/sportsbackground.jpg");
+}
+
+#time {
+  font-size: 50px;
+  color: red;
+  font-weight: bold;
+}
+.button {
+  width: 250px;
+  border-radius: 0;
+  background-color: black;
+  margin: 10px;
+  color: blue;
+  font-size: 25px;
+}
+.button:hover{
+  background-color: white;
+}
+#questions {
+  font-size: 50px;
+  color: blue;
+  outline-color: white;
+  outline-style: solid;
+  background-color: black;
+}
+.gifs {
+  max-width: 450px;
+  max-height: 450px;
+}
+#gif-holder {
+  margin-top: -50px;
+  color: red;
+  font-size: 50px;
+}
